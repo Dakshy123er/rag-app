@@ -6,9 +6,9 @@ A production-ready Retrieval-Augmented Generation (RAG) system with comprehensiv
 ---
 
 ### 👤 Author
-- **Name**: Daksh  
+- **Name**: Daksh Yadav
 - **Resume**: [https://drive.google.com/file/d/13MwgQfPbz-2YCuX49Xox3TuFq9mjflIa/view?usp=sharing] 
-- **Email**: daksh.8.10a@gmail.com  
+- **Email**: b23037@students.iitmandi.ac.in 
 - **GitHub**: https://github.com/Dakshy123er  
 - **LinkedIn**: https://www.linkedin.com/in/daksh-yadav-6836032b0
 
