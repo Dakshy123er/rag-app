@@ -1,4 +1,4 @@
-# 📚 Mini RAG System - Complete Documentation
+# 📚 Mini RAG System 
 
 A production-ready Retrieval-Augmented Generation (RAG) system with comprehensive cost tracking, inline citations, and modern UI.
 
