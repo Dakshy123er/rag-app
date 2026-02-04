@@ -1,0 +1,123 @@
+{
+  "results": [
+    {
+      "test_id": 1,
+      "category": "factual",
+      "passed": true,
+      "keyword_recall": 1.0,
+      "keywords_found": [
+        "15-22%",
+        "23-24%",
+        "efficiency",
+        "premium"
+      ],
+      "keywords_missing": [],
+      "citation_count": 6,
+      "source_count": 5,
+      "timing": {
+        "embedding": 0.243,
+        "retrieval": 0.332,
+        "reranking": 0.425,
+        "generation": 3.136,
+        "total": 4.136
+      },
+      "answer_length": 258,
+      "total_query_time": 6.169397592544556
+    },
+    {
+      "test_id": 2,
+      "category": "comparative",
+      "passed": true,
+      "keyword_recall": 1.0,
+      "keywords_found": [
+        "2-3 megawatts",
+        "150-200 watts",
+        "square meter",
+        "footprint"
+      ],
+      "keywords_missing": [],
+      "citation_count": 3,
+      "source_count": 5,
+      "timing": {
+        "embedding": 0.176,
+        "retrieval": 0.126,
+        "reranking": 0.444,
+        "generation": 13.232,
+        "total": 13.978
+      },
+      "answer_length": 2121,
+      "total_query_time": 15.997574090957642
+    },
+    {
+      "test_id": 3,
+      "category": "multi-hop",
+      "passed": true,
+      "keyword_recall": 1.0,
+      "keywords_found": [
+        "upfront costs",
+        "intermittency",
+        "infrastructure",
+        "subsidies",
+        "storage",
+        "grid"
+      ],
+      "keywords_missing": [],
+      "citation_count": 10,
+      "source_count": 5,
+      "timing": {
+        "embedding": 0.202,
+        "retrieval": 0.107,
+        "reranking": 0.432,
+        "generation": 15.457,
+        "total": 16.198
+      },
+      "answer_length": 3953,
+      "total_query_time": 18.23254084587097
+    },
+    {
+      "test_id": 4,
+      "category": "contextual",
+      "passed": true,
+      "keyword_recall": 0.8,
+      "keywords_found": [
+        "carbon pricing",
+        "renewable energy mandates",
+        "subsidies",
+        "tax incentives"
+      ],
+      "keywords_missing": [
+        "research funding"
+      ],
+      "citation_count": 18,
+      "source_count": 5,
+      "timing": {
+        "embedding": 0.195,
+        "retrieval": 0.107,
+        "reranking": 0.448,
+        "generation": 23.642,
+        "total": 24.392
+      },
+      "answer_length": 3499,
+      "total_query_time": 26.433288097381592
+    },
+    {
+      "test_id": 5,
+      "category": "no-answer",
+      "passed": true,
+      "keyword_recall": 1.0,
+      "keywords_found": [],
+      "keywords_missing": [],
+      "citation_count": 0,
+      "source_count": 5,
+      "timing": {
+        "embedding": 0.414,
+        "retrieval": 0.108,
+        "reranking": 0.498,
+        "generation": 3.617,
+        "total": 4.637
+      },
+      "answer_length": 523,
+      "total_query_time": 6.663484334945679
+    }
+  ]
+}
