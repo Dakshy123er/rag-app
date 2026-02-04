@@ -744,7 +744,7 @@ What is the chemical composition of hydrogen fuel cells?
    ```bash
    cd backend
    python main.py
-   python test_evaluation.py
+   python test_evaluation.py(run in side by side terminal)
 
 ---
 
